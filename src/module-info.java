@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author atsin
+ *
+ */
+module ATMMachine {
+}
